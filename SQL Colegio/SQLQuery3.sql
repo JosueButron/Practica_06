@@ -1,0 +1,5 @@
+Insert Into Alumno values (2019205181,'Programacion','12:00:00','Ing.Montesinos')
+Insert Into Alumno values (2019205383,'Comunicacion','16:00:00','Lara Croft')
+Insert Into Alumno values (2019202931,'Matematicas','14:00:00','Pedro Pica')
+Insert Into Alumno values (2019203213,'Literatura','18:00:00','Marcos Caso')
+Insert Into Alumno values (2019200923,'Fisica','9:00:00','Barreda')
